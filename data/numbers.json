@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "word": "pála7",
+    "translation": "One",
+    "image": "/images/kaya-01.jpg",
+    "audio": "/audio/number-01"
+  },
+  {
+    "id": "2",
+    "word": "án̓was",
+    "translation": "Two",
+    "image": "/images/kaya-02.jpg",
+    "audio": "/audio/number-02"
+  },
+  {
+    "id": "3",
+    "word": "kalhás",
+    "translation": "Three",
+    "image": "/images/kaya-03.jpg",
+    "audio": "/audio/number-03"
+  },
+  {
+    "id": "4",
+    "word": "xw7útsin",
+    "translation": "Four",
+    "image": "/images/kaya-04.jpg",
+    "audio": "/audio/number-04"
+  },
+  {
+    "id": "5",
+    "word": "tsilkst",
+    "translation": "Five",
+    "image": "/images/kaya-05.jpg",
+    "audio": "/audio/number-05"
+  },
+  {
+    "id": "6",
+    "word": "t̓áq̓emkst",
+    "translation": "Six",
+    "image": "/images/kaya-06.jpg",
+    "audio": "/audio/number-06"
+  },
+  {
+    "id": "7",
+    "word": "tsúlhaka7",
+    "translation": "Seven",
+    "image": "/images/kaya-07.jpg",
+    "audio": "/audio/number-07"
+  },
+  {
+    "id": "8",
+    "word": "pel7ú7pst",
+    "translation": "Eight",
+    "image": "/images/kaya-08.jpg",
+    "audio": "/audio/number-08"
+  },
+  {
+    "id": "9",
+    "word": "q̓empálmen",
+    "translation": "Nine",
+    "image": "/images/kaya-09.jpg",
+    "audio": "/audio/number-09"
+  },
+  {
+    "id": "10",
+    "word": "q̓emp",
+    "translation": "Ten",
+    "image": "/images/kaya-10.jpg",
+    "audio": "/audio/number-10"
+  }
+]
