@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "letter": "a",
+    "example-1": "áma",
+    "example-translation-1": "good",
+    "audio-1": "/audio/alphabet-example-good-01.mp3",
+    "example-2": "maw",
+    "example-translation-2": "cat",
+    "audio-2": "/audio/alphabet-example-cat-02.mp3",
+    "example-3": "alkst",
+    "example-translation-3": "work",
+    "audio-3": "/audio/alphabet-example-good-03.mp3"
+  }
+]

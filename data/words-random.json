@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "word": "Xweystúmilhkan",
+    "word-translation": "I love you.",
+    "word-audio": "/audio/word-i-love-you-01.mp3",
+    "phrase": "Iy stexwkán t̓u7 ámas!",
+    "phrase-translation": "Yes, I love it!",
+    "phrase-audio": "/audio/phrase-yes_i_love_it_stat-01.mp3"
+  },
+  {
+    "id": "2",
+    "word": "Sútik",
+    "word-translation": "Winter",
+    "word-audio": "/audio/word-winter-02.mp3",
+    "phrase": "Xwíyslhkan ta Sútika.",
+    "phrase-translation": "I like winter",
+    "phrase-audio": "/audio/phrase-i-like-winter-02.mp3"
+  },
+  {
+    "id": "3",
+    "word": "ilhenálhcw",
+    "word-translation": "Restaurant or diner",
+    "word-audio": "/audio/word-restaurant-03.mp3",
+    "phrase": "Cuy̓stwi ílhen lta lhenálhcwa",
+    "phrase-translation": "Let's go out for dinnr",
+    "phrase-audio": "/audio/phrase-lets-go-for-dinner-03.mp3"
+  },
+  {
+    "id": "4",
+    "word": "Hú7wimalh",
+    "word-translation": "Goodbye (to more than one person)",
+    "word-audio": "/audio/word-goodbye-04.mp3",
+    "phrase": "Hú7wimalh, náskan cwíl̓em ku s7alkst.",
+    "phrase-translation": "Good-bye I'm going to look for a job.",
+    "phrase-audio": "/audio/phrase-goodbye-job-04.mp3"
+  }
+]

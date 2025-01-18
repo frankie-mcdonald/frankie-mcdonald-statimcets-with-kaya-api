@@ -1,6 +1,8 @@
 import express from "express";
 import cors from "cors";
 import numbersRoute from "./routes/numbersRoute.js";
+import wordsPhrasesRoute from "./routes/wordsPhrasesRoute.js";
+import alphabetRoute from "./routes/alphabetRoute.js";
 import "dotenv/config";
 
 const app = express();
@@ -13,7 +15,8 @@ app.use(express.static("public")); // Serve static files from the "public" folde
 
 // ---Routes---
 app.use("/numbers", numbersRoute);
-
+app.use("/random", wordsPhrasesRoute);
+app.use("/alphabet", alphabetRoute);
 // ---Home Route---
 app.get("/", (req, res) => {
   res.send("Hello humans");
