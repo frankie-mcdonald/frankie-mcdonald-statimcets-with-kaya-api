@@ -2,14 +2,468 @@
   {
     "id": "1",
     "letter": "a",
-    "example-1": "áma",
-    "example-translation-1": "good",
-    "audio-1": "/audio/alphabet-example-good-01.mp3",
-    "example-2": "maw",
-    "example-translation-2": "cat",
-    "audio-2": "/audio/alphabet-example-cat-02.mp3",
-    "example-3": "alkst",
-    "example-translation-3": "work",
-    "audio-3": "/audio/alphabet-example-good-03.mp3"
+    "example1": "áma",
+    "exampleTranslation1": "Good",
+    "audio1": "/audio/alphabet-example-good-01.mp3",
+    "example2": "maw",
+    "exampleTranslation2": "Cat",
+    "audio2": "/audio/alphabet-example-cat-01.mp3",
+    "example3": "alkst",
+    "exampleTranslation3": "Work",
+    "audio3": "/audio/alphabet-example-work-01.mp3"
+  },
+  {
+    "id": "2",
+    "letter": "á",
+    "example1": "pála",
+    "exampleTranslation1": "One",
+    "audio1": "/audio/alphabet-example-one-02.mp3",
+    "example2": "á7ma",
+    "exampleTranslation2": "Pretty",
+    "audio2": "/audio/alphabet-example-pretty-02.mp3",
+    "example3": "ápa7",
+    "exampleTranslation3": "Boy",
+    "audio3": "/audio/alphabet-example-boy-02.mp3"
+  },
+  {
+    "id": "3",
+    "letter": "e",
+    "example1": "emhál̓qwem̓",
+    "exampleTranslation1": "Handsome",
+    "audio1": "/audio/alphabet-example-handsome-03.mp3",
+    "example2": "exw7unámlhkan",
+    "exampleTranslation2": "I have a cold.",
+    "audio2": "/audio/alphabet-example-cold-03.mp3",
+    "example3": "tákem",
+    "exampleTranslation3": "All, everything",
+    "audio3": "/audio/alphabet-example-all-03.mp3"
+  },
+  {
+    "id": "4",
+    "letter": "é",
+    "example1": "éxw7un",
+    "exampleTranslation1": "Cough",
+    "audio1": "/audio/alphabet-example-cough-04.mp3",
+    "example2": "tepne̓m",
+    "exampleTranslation2": "Got stung",
+    "audio2": "/audio/alphabet-example-stung-04.mp3",
+    "example3": "séken",
+    "exampleTranslation3": "Whip",
+    "audio3": "/audio/alphabet-example-whip-04.mp3"
+  },
+  {
+    "id": "5",
+    "letter": "i",
+    "example1": "iy",
+    "exampleTranslation1": "Yes",
+    "audio1": "/audio/alphabet-example-yes-05.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "6",
+    "letter": "í",
+    "example1": "ílal",
+    "exampleTranslation1": "Cry",
+    "audio1": "/audio/alphabet-example-cry-06.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "7",
+    "letter": "o",
+    "example1": "kóso",
+    "exampleTranslation1": "Pig",
+    "audio1": "/audio/alphabet-example-pig-07.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "8",
+    "letter": "ii",
+    "example1": "kíilusem",
+    "exampleTranslation1": "To feel guilty",
+    "audio1": "/audio/alphabet-example-guilty-08.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "9",
+    "letter": "íi",
+    "example1": "kíilusem",
+    "exampleTranslation1": "To feel guilty",
+    "audio1": "/audio/alphabet-example-guilty-08.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "10",
+    "letter": "u",
+    "example1": "ul̓l̓ús",
+    "exampleTranslation1": "Gathered",
+    "audio1": "/audio/alphabet-example-gathered-10.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "11",
+    "letter": "ú",
+    "example1": "úqwa7",
+    "exampleTranslation1": "Drink",
+    "audio1": "/audio/alphabet-example-drink-11.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "12",
+    "letter": "ao",
+    "example1": "splaont",
+    "exampleTranslation1": "Skunk",
+    "audio1": "/audio/alphabet-example-skunk-12.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "13",
+    "letter": "áo",
+    "example1": "meláomen",
+    "exampleTranslation1": "Medicine",
+    "audio1": "/audio/alphabet-example-medicine-13.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "14",
+    "letter": "v",
+    "example1": "pvmp",
+    "exampleTranslation1": "Fast",
+    "audio1": "/audio/alphabet-example-fast-14.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "15",
+    "letter": "v́",
+    "example1": "páolpvlt",
+    "exampleTranslation1": "Stubborn",
+    "audio1": "/audio/alphabet-example-stubborn-15.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "16",
+    "letter": "p",
+    "example1": "ptínusem",
+    "exampleTranslation1": "Think",
+    "audio1": "/audio/alphabet-example-think-16.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "17",
+    "letter": "t",
+    "example1": "tayt",
+    "exampleTranslation1": "Hungry",
+    "audio1": "/audio/alphabet-example-hungry-17.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "18",
+    "letter": "ts",
+    "example1": "tsut",
+    "exampleTranslation1": "Say, Speak",
+    "audio1": "/audio/alphabet-example-say-18.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "19",
+    "letter": "k",
+    "example1": "kalál",
+    "exampleTranslation1": "Soon",
+    "audio1": "/audio/alphabet-example-soon-19.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "20",
+    "letter": "kw",
+    "example1": "kwikws",
+    "exampleTranslation1": "Small, little",
+    "audio1": "/audio/alphabet-example-small-20.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "21",
+    "letter": "s",
+    "example1": "sáma7",
+    "exampleTranslation1": "White person",
+    "audio1": "/audio/alphabet-example-whiteperson-21.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "22",
+    "letter": "s̲",
+    "example1": "smúlhats",
+    "exampleTranslation1": "Woman",
+    "audio1": "/audio/alphabet-example-woman-22.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "23",
+    "letter": "z",
+    "example1": "záwem",
+    "exampleTranslation1": "To fish with a dipnet",
+    "audio1": "/audio/alphabet-example-fish-dipnet-23.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "24",
+    "letter": "l",
+    "example1": "lámcal",
+    "exampleTranslation1": "Pray",
+    "audio1": "/audio/alphabet-example-pray-24.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "25",
+    "letter": "m",
+    "example1": "melk",
+    "exampleTranslation1": "Milk",
+    "audio1": "/audio/alphabet-example-milk-25.mp3",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "26",
+    "letter": "n",
+    "example1": "",
+    "exampleTranslation1": "",
+    "audio1": "",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "27",
+    "letter": "w",
+    "example1": "",
+    "exampleTranslation1": "",
+    "audio1": "",
+    "example2": "",
+    "exampleTranslation2": "",
+    "audio2": "",
+    "example3": "",
+    "exampleTranslation3": "",
+    "audio3": ""
+  },
+  {
+    "id": "28",
+    "letter": "y"
+  },
+  {
+    "id": "29",
+    "letter": "h"
+  },
+  {
+    "id": "30",
+    "letter": "c"
+  },
+  {
+    "id": "31",
+    "letter": "cw"
+  },
+  {
+    "id": "32",
+    "letter": "lh"
+  },
+  {
+    "id": "33",
+    "letter": "q"
+  },
+  {
+    "id": "34",
+    "letter": "qw"
+  },
+  {
+    "id": "35",
+    "letter": "x"
+  },
+  {
+    "id": "36",
+    "letter": "xw"
+  },
+  {
+    "id": "37",
+    "letter": "g"
+  },
+  {
+    "id": "38",
+    "letter": "gw"
+  },
+  {
+    "id": "39",
+    "letter": "r"
+  },
+  {
+    "id": "40",
+    "letter": "7"
+  },
+  {
+    "id": "41",
+    "letter": "p̓"
+  },
+  {
+    "id": "42",
+    "letter": "t̓"
+  },
+  {
+    "id": "43",
+    "letter": "ts̓"
+  },
+  {
+    "id": "44",
+    "letter": "k̓"
+  },
+  {
+    "id": "45",
+    "letter": "k̓w"
+  },
+  {
+    "id": "46",
+    "letter": "q̓"
+  },
+  {
+    "id": "47",
+    "letter": "qw"
+  },
+  {
+    "id": "48",
+    "letter": "z̓"
+  },
+  {
+    "id": "49",
+    "letter": "l̓"
+  },
+  {
+    "id": "50",
+    "letter": "m̓"
+  },
+  {
+    "id": "51",
+    "letter": "n̓"
+  },
+  {
+    "id": "52",
+    "letter": "w̓"
+  },
+  {
+    "id": "53",
+    "letter": "y̓"
+  },
+  {
+    "id": "54",
+    "letter": "r̓"
+  },
+  {
+    "id": "55",
+    "letter": "g̓"
+  },
+  {
+    "id": "56",
+    "letter": "g̓w"
   }
 ]
