@@ -317,19 +317,19 @@
     "example1": "melk",
     "exampleTranslation1": "Milk",
     "audio1": "/audio/alphabet-example-milk-25.mp3",
-    "example2": "",
-    "exampleTranslation2": "",
-    "audio2": "",
-    "example3": "",
-    "exampleTranslation3": "",
-    "audio3": ""
+    "example2": "maw",
+    "exampleTranslation2": "Cat",
+    "audio2": "/audio/alphabet-example-cat-01.mp3",
+    "example3": "míxalh",
+    "exampleTranslation3": "Bear",
+    "audio3": "/audio/word-bear-08.mp3"
   },
   {
     "id": "26",
     "letter": "n",
-    "example1": "",
-    "exampleTranslation1": "",
-    "audio1": "",
+    "example1": "ník̓in̓",
+    "exampleTranslation1": "to cut",
+    "audio1": "/audio/alphabet-example-cut-26.mp3",
     "example2": "",
     "exampleTranslation2": "",
     "audio2": "",
@@ -340,9 +340,9 @@
   {
     "id": "27",
     "letter": "w",
-    "example1": "",
-    "exampleTranslation1": "",
-    "audio1": "",
+    "example1": "wáz̓am",
+    "exampleTranslation1": "to bark",
+    "audio1": "/audio/alphabet-example-bark-27.mp3",
     "example2": "",
     "exampleTranslation2": "",
     "audio2": "",
@@ -352,118 +352,205 @@
   },
   {
     "id": "28",
-    "letter": "y"
+    "letter": "y",
+    "example1": "yaon",
+    "exampleTranslation1": "Yarn",
+    "audio1": "/audio/alphabet-example-yawn-28.mp3"
   },
   {
     "id": "29",
-    "letter": "h"
+    "letter": "h",
+    "example1": "haláw̓",
+    "exampleTranslation1": "Golden eagle",
+    "audio1": "/audio/alphabet-example-eagle-29.mp3"
   },
   {
     "id": "30",
-    "letter": "c"
+    "letter": "c",
+    "example1": "clao7",
+    "exampleTranslation1": "Raven",
+    "audio1": "/audio/alphabet-example-raven-30.mp3"
   },
   {
     "id": "31",
-    "letter": "cw"
+    "letter": "cw",
+    "example1": "cwétpcen",
+    "exampleTranslation1": "Birthday",
+    "audio1": "/audio/alphabet-example-birthday-31.mp3"
   },
   {
     "id": "32",
-    "letter": "lh"
+    "letter": "lh",
+    "example1": "lhápen",
+    "exampleTranslation1": "forget something",
+    "audio1": "/audio/alphabet-example-forget-32.mp3"
   },
   {
     "id": "33",
-    "letter": "q"
+    "letter": "q",
+    "example1": "qéqtsek",
+    "exampleTranslation1": "Older brother",
+    "audio1": "/audio/alphabet-example-brother-33.mp3"
   },
   {
     "id": "34",
-    "letter": "qw"
+    "letter": "qw",
+    "example1": "q̓wexq̓wíx",
+    "exampleTranslation1": "Black",
+    "audio1": "/audio/alphabet-example-black-34.mp3"
   },
   {
     "id": "35",
-    "letter": "x"
+    "letter": "x",
+    "example1": "xáyeqs",
+    "exampleTranslation1": "Coho salmon",
+    "audio1": "/audio/alphabet-example-coho-35.mp3"
   },
   {
     "id": "36",
-    "letter": "xw"
+    "letter": "xw",
+    "example1": "xwementsút",
+    "exampleTranslation1": "hurry, rush",
+    "audio1": "/audio/alphabet-example-hurry-36.mp3"
   },
   {
     "id": "37",
-    "letter": "g"
+    "letter": "g",
+    "example1": "gélgel",
+    "exampleTranslation1": "Strong",
+    "audio1": "/audio/alphabet-example-strong-37.mp3"
   },
   {
     "id": "38",
-    "letter": "gw"
+    "letter": "gw",
+    "example1": "gweygwey̓ép",
+    "exampleTranslation1": "Northern lights",
+    "audio1": "/audio/alphabet-example-northernlights-38.mp3"
   },
   {
     "id": "39",
-    "letter": "r"
+    "letter": "r",
+    "example1": "ri7p",
+    "exampleTranslation1": "grow / grow up",
+    "audio1": "/audio/alphabet-example-grow-39.mp3"
   },
   {
     "id": "40",
-    "letter": "7"
+    "letter": "7",
+    "example1": "sáma7",
+    "exampleTranslation1": "White person",
+    "audio1": "/audio/alphabet-example-whiteperson-40.mp3"
   },
   {
     "id": "41",
-    "letter": "p̓"
+    "letter": "p̓",
+    "example1": "p̓a7cw",
+    "exampleTranslation1": "More than",
+    "audio1": "/audio/alphabet-example-morethan-41.mp3"
   },
   {
     "id": "42",
-    "letter": "t̓"
+    "letter": "t̓",
+    "example1": "t̓alál",
+    "exampleTranslation1": "Tired",
+    "audio1": "/audio/alphabet-example-tired-42.mp3"
   },
   {
     "id": "43",
-    "letter": "ts̓"
+    "letter": "ts̓",
+    "example1": "ts̓áqwan̓",
+    "exampleTranslation1": "Eat something",
+    "audio1": "/audio/alphabet-example-eat-43.mp3"
   },
   {
     "id": "44",
-    "letter": "k̓"
+    "letter": "k̓",
+    "example1": "k̓a7t̓",
+    "exampleTranslation1": "Dirty (having gotten",
+    "audio1": "/audio/alphabet-example-dirty-44.mp3"
   },
   {
     "id": "45",
-    "letter": "k̓w"
+    "letter": "k̓w",
+    "example1": "k̓wálhcal",
+    "exampleTranslation1": "Come along",
+    "audio1": "/audio/alphabet-example-comealong-45.mp3"
   },
   {
     "id": "46",
-    "letter": "q̓"
+    "letter": "q̓",
+    "example1": "q̓wezílc",
+    "exampleTranslation1": "Modern day dance",
+    "audio1": "/audio/alphabet-example-dance-46.mp3"
   },
   {
     "id": "47",
-    "letter": "qw"
+    "letter": "qw",
+    "example1": "q̓wel",
+    "exampleTranslation1": "cooked, ripe",
+    "audio1": "/audio/alphabet-example-cooked-47.mp3"
   },
   {
     "id": "48",
-    "letter": "z̓"
+    "letter": "z̓",
+    "example1": "az̓",
+    "exampleTranslation1": "Pay for something",
+    "audio1": "/audio/alphabet-example-pay-48.mp3"
   },
   {
     "id": "49",
-    "letter": "l̓"
+    "letter": "l̓",
+    "example1": "l̓íp̓in̓",
+    "exampleTranslation1": "Squeeze, hold something tightly",
+    "audio1": "/audio/alphabet-example-hold-49.mp3"
   },
   {
     "id": "50",
-    "letter": "m̓"
+    "letter": "m̓",
+    "example1": "xixlhtúm̓cas",
+    "exampleTranslation1": "He teased me",
+    "audio1": "/audio/alphabet-example-tease-50.mp3"
   },
   {
     "id": "51",
-    "letter": "n̓"
+    "letter": "n̓",
+    "example1": "n̓an̓atcwám",
+    "exampleTranslation1": "Get up early",
+    "audio1": "/audio/alphabet-example-early-51.mp3"
   },
   {
     "id": "52",
-    "letter": "w̓"
+    "letter": "w̓",
+    "example1": "zaw̓tmín",
+    "exampleTranslation1": "Annoyed with",
+    "audio1": "/audio/alphabet-example-annoyed-52.mp3"
   },
   {
     "id": "53",
-    "letter": "y̓"
+    "letter": "y̓",
+    "example1": "yecyáy̓cen",
+    "exampleTranslation1": "Bug, daddy long legs",
+    "audio1": "/audio/alphabet-example-bug-53.mp3"
   },
   {
     "id": "54",
-    "letter": "r̓"
+    "letter": "r̓",
+    "example1": "re̓pen",
+    "exampleTranslation1": "Put upright",
+    "audio1": "/audio/alphabet-example-upright-54.mp3"
   },
   {
     "id": "55",
-    "letter": "g̓"
+    "letter": "g̓",
+    "example1": "g̓í7g̓ets",
+    "exampleTranslation1": "Tied tightly",
+    "audio1": "/audio/alphabet-example-tied-55.mp3"
   },
   {
     "id": "56",
-    "letter": "g̓w"
+    "letter": "g̓w",
+    "example1": "q̓welcít",
+    "exampleTranslation1": "Cook something",
+    "audio1": "/audio/alphabet-example-cook-56.mp3"
   }
 ]

@@ -34,5 +34,59 @@
     "phrase": "Hú7wimalh, náskan cwíl̓em ku s7alkst.",
     "phrase-translation": "Good-bye I'm going to look for a job.",
     "phrase-audio": "/audio/phrase-goodbye-job-04.mp3"
+  },
+  {
+    "id": "5",
+    "word": "K̓alhwá7acw",
+    "word-translation": "Hello",
+    "word-audio": "/audio/word-hello_stat-05.mp3",
+    "phrase": "K̓alhwá7al̓ap",
+    "phrase-translation": "Hello (to more than one person",
+    "phrase-audio": "/audio/phrase-Hello-05.mp3"
+  },
+  {
+    "id": "6",
+    "word": "stam̓",
+    "word-translation": "What",
+    "word-audio": "/audio/word-what-06.mp3",
+    "phrase": "Stam̓ ku skwátsitssu?",
+    "phrase-translation": "What is your name?",
+    "phrase-audio": "/audio/phrase-what-name-06.mp3"
+  },
+  {
+    "id": "7",
+    "word": "kúkwstum̓ckacw",
+    "word-translation": "Thank you (to one person)",
+    "word-audio": "/audio/word-thankyou-07.mp3",
+    "phrase": "Ámalhkan, kúkwstum̓ckacw",
+    "phrase-translation": "I'm well, thank you.",
+    "phrase-audio": "/audio/phrase-good-thanks-07.mp3"
+  },
+  {
+    "id": "8",
+    "word": "míxalh",
+    "word-translation": "Bear",
+    "word-audio": "/audio/word-bear-08.mp3",
+    "phrase": "T̓axilmíntsas ta míxalha",
+    "phrase-translation": "The black bear attacked me.",
+    "phrase-audio": "/audio/phrase-bear-attacked-08.mp3"
+  },
+  {
+    "id": "9",
+    "word": "Uqw7ái̓menlhkan",
+    "word-translation": "I am thirsty",
+    "word-audio": "/audio/word-im-thirsty-09.mp3",
+    "phrase": "Uqw7ái̓menlhkan ku nts̓ip̓ qu7",
+    "phrase-translation": "Im thirsty for cold water",
+    "phrase-audio": "/audio/phrase-thirsty-09.mp3"
+  },
+  {
+    "id": "10",
+    "word": "Maw",
+    "word-translation": "Cat",
+    "word-audio": "/audio/word-cat-10.mp3",
+    "phrase": "Tayt ta máwa",
+    "phrase-translation": "The cat is hungry",
+    "phrase-audio": "/audio/phrase-hungry-cat-10.mp3"
   }
 ]
