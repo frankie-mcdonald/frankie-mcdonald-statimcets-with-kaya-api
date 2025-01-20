@@ -21,7 +21,7 @@ router.get("/:wordsPhrasesId", (req, res) => {
 
     const wordPhrasesId = parseInt(req.params.numberId, 10);
 
-    // Find the number by its ID
+    // Find the words/phrases by ID
     const foundNumber = wordsPhrasesData.find(
       (wordsPhrases) => wordsPhrases.id === wordPhrasesId
     );

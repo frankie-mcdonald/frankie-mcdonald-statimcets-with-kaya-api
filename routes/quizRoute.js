@@ -21,7 +21,7 @@ router.get("/:quizId", (req, res) => {
 
     const quizId = parseInt(req.params.quizId, 10);
 
-    // Find alphabet by its ID
+    // Find quiz by its ID
     const foundQuiz = quizData.find((quiz) => quiz.id === quizId);
 
     if (!foundQuiz) {
